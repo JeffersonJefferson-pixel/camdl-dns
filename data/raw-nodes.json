@@ -1,17 +1,49 @@
 [
     {
-        "seq": 2,
+        "seq": 1,
         "id": "v4",
-        "host": "127.0.0.1",
-        "privKey": "1b366c21defe06a7a11a50545e949939f098de4764f51b9f14c87e7cc4fdc007",
+        "host": "172.16.239.11",
+        "privKey": "1a2c4ff0f1b38e2322658dba692816138eb22d002515df1fffca21278f406aa9",
         "udp": 30303,
         "tcp": 30303
     },
     {
         "seq": 1,
         "id": "v4",
-        "host": "157.90.215.208",
-        "privKey": "65d833def30e9701c90256812a4faddb7f40f6a58f17a3a6f55df071cd1a9b60",
+        "host": "172.16.239.12",
+        "privKey": "7f9af699dd2bb1af76c90b3f67183dd48abae509c315eb8f2c55301ad90ba978",
+        "udp": 30303,
+        "tcp": 30303
+    },
+    {
+        "seq": 1,
+        "id": "v4",
+        "host": "172.16.239.13",
+        "privKey": "fe006b00c738e7e5af7f7623290ffc83f394741ae6fb6afc6081cab49e1e1a70",
+        "udp": 30303,
+        "tcp": 30303
+    },
+    {
+        "seq": 1,
+        "id": "v4",
+        "host": "172.16.239.14",
+        "privKey": "8f6ae009cdbbf6e6fa739b91a4483f251bbe89f6570d34856554533b36c93c55",
+        "udp": 30303,
+        "tcp": 30303
+    },
+    {
+        "seq": 1,
+        "id": "v4",
+        "host": "172.16.239.15",
+        "privKey": "0e93a540518eeb673d94fb496b746008ab56605463cb9212493997f5755124d1",
+        "udp": 30303,
+        "tcp": 30303
+    },
+    {
+        "seq": 2,
+        "id": "v4",
+        "host": "172.16.239.16",
+        "privKey": "76a56503f60133c7bb4fa73fa48ec0eccb115b3db932787e46f2664c706613eb",
         "udp": 30303,
         "tcp": 30303
     }
